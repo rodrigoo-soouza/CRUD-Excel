@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\digos\\OneDrive\\Documentos\\Meus Projetos\\GitHub\\Projetos em C#\\CRUD-Blazor-Excel\\CRUD-Blazor-Excel\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD_Blazor_Excel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CRUD_Blazor_Excel.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\digos\\OneDrive\\Documentos\\Meus Projetos\\GitHub\\Projetos em C#\\CRUD-Blazor-Excel\\CRUD-Blazor-Excel\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\digos\\OneDrive\\Documentos\\Meus Projetos\\GitHub\\Projetos em C#\\CRUD-Blazor-Excel\\CRUD-Blazor-Excel\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\digos\\OneDrive\\Documentos\\Meus Projetos\\GitHub\\Projetos em C#\\CRUD-Blazor-Excel\\CRUD-Blazor-Excel\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\digos\\OneDrive\\Documentos\\Meus Projetos\\GitHub\\Projetos em C#\\CRUD-Blazor-Excel\\CRUD-Blazor-Excel\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUD_Blazor_Excel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CRUD_Blazor_Excel.props",
+      "PackagePath": "build\\CRUD_Blazor_Excel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUD_Blazor_Excel.props",
+      "PackagePath": "buildMultiTargeting\\CRUD_Blazor_Excel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CRUD_Blazor_Excel.props",
+      "PackagePath": "buildTransitive\\CRUD_Blazor_Excel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
